@@ -1,0 +1,46 @@
+main{
+    padding: 20px;
+    text-align: center;
+    
+}
+
+
+
+.h1_p{
+    white-space: nowrap;
+    color: #333;
+    margin-bottom: 20px;
+
+}
+main h1{
+    font-size: 3em;
+    color: #333;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+main h1:hover{
+    color: #868686;
+}
+
+.p_nostros, .mision, .vision, .contactos, .maps{
+    margin-top: 3 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    
+}
+
+
+
+.p_nostros h2:hover, .mision h2:hover, .vision h2:hover, .contactos h2:hover, .maps h2:hover{
+    color: #868686;
+}
+
+.maps{
+
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+}
